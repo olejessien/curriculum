@@ -29,7 +29,7 @@ The `<base>` element is used to specify a link path for all relative URL attribu
 
 Also, the `<base>` element cannot be empty, it must contain either the target attribute, the href attribute, or both of them.
 
-All links in the web page or document are set to open in a new tab:
+All links in the web page or document are set to open in the same tab/window:
 
 ```html
 <head>
